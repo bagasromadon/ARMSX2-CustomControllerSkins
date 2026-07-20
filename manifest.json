@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "name": "ARMSX2 Custom Controller Skins",
+  "description": "Community controller skins for ARMSX2 (Android + iOS).",
+  "skins": [
+    {
+      "name": "Black",
+      "file": "Skins/Black.zip",
+      "preview": "Previews/black.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 1815316,
+      "iosLayout": "Black.json"
+    },
+    {
+      "name": "Dualshock 4",
+      "file": "Skins/DualShock4.zip",
+      "preview": "Previews/dualshock4.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 153335,
+      "iosLayout": "Dualshock4.json"
+    },
+    {
+      "name": "God Of War II iPad_Refined",
+      "file": "Skins/God of War 2 Silver Edition.zip",
+      "preview": "Previews/god-of-war-2-silver-edition.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 2130104,
+      "iosLayout": "GOWII_iPad.json"
+    },
+    {
+      "name": "God Of War II iPad_Refined Gold",
+      "file": "Skins/God Of War 2.zip",
+      "preview": "Previews/god-of-war-2.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 2174196,
+      "iosLayout": "GOWII_iPad.json"
+    },
+    {
+      "name": "Gran Turismo 4",
+      "file": "Skins/Gran Turismo 4.zip",
+      "preview": "Previews/gran-turismo-4.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 3293127
+    },
+    {
+      "name": "NFS CARBON - Annotation",
+      "file": "Skins/NFS Carbon.zip",
+      "preview": "Previews/nfs-carbon.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1132351,
+      "iosLayout": "NFSCARBON.json"
+    },
+    {
+      "name": "NFS MW Annotation",
+      "file": "Skins/NFS Most Wanted.zip",
+      "preview": "Previews/nfs-most-wanted.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1132099,
+      "iosLayout": "NFSMW.json"
+    },
+    {
+      "name": "NFS MW Mobile",
+      "file": "Skins/NFS MW.zip",
+      "preview": "Previews/nfs-mw.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1114171,
+      "iosLayout": "NFSMW.json"
+    },
+    {
+      "name": "NFS ProStreet Annotation",
+      "file": "Skins/NFS Pro Street.zip",
+      "preview": "Previews/nfs-pro-street.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1114868,
+      "iosLayout": "NFSPROSTREET.json"
+    },
+    {
+      "name": "NFSU2 Annotation",
+      "file": "Skins/NFS Underground 2.zip",
+      "preview": "Previews/nfs-underground-2.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1125167,
+      "iosLayout": "NFSU2.json"
+    },
+    {
+      "name": "Resident Evil 4",
+      "file": "Skins/Resident Evil 4.zip",
+      "preview": "Previews/resident-evil-4.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 970070,
+      "iosLayout": "RE4.json"
+    },
+    {
+      "name": "Street Fighter",
+      "file": "Skins/Street Fighter.zip",
+      "preview": "Previews/street-fighter.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 676631,
+      "iosLayout": "StreetFighteriPad.json"
+    },
+    {
+      "name": "TEKKEN5",
+      "file": "Skins/TEKKEN5.zip",
+      "preview": "Previews/tekken5.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 1085553,
+      "iosLayout": "TEKKEN5.json"
+    },
+    {
+      "name": "WWE HCTP",
+      "file": "Skins/WWE Here Comes The Pain.zip",
+      "preview": "Previews/wwe-here-comes-the-pain.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1084799,
+      "iosLayout": "WWEHCTP.json"
+    }
+  ]
+}
