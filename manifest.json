@@ -13,6 +13,23 @@
       "iosLayout": "Black.json"
     },
     {
+      "name": "Burnout 3",
+      "file": "Skins/Burnout 3.zip",
+      "preview": "Previews/burnout-3.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1108068,
+      "iosLayout": "Burnout3.json"
+    },
+    {
+      "name": "Clean Frosted V2",
+      "file": "Skins/Clean Frosted V2.zip",
+      "preview": "Previews/clean-frosted-v2.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 177970
+    },
+    {
       "name": "Dualshock 4",
       "file": "Skins/DualShock4.zip",
       "preview": "Previews/dualshock4.png",
@@ -22,21 +39,37 @@
       "iosLayout": "Dualshock4.json"
     },
     {
-      "name": "God Of War II iPad_Refined",
+      "name": "Dualshock Black",
+      "file": "Skins/Dualshock Black.zip",
+      "preview": "Previews/dualshock-black.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 490405
+    },
+    {
+      "name": "Dualshock White",
+      "file": "Skins/Dualshock White.zip",
+      "preview": "Previews/dualshock-white.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 460927
+    },
+    {
+      "name": "God Of War II - Gold",
+      "file": "Skins/God Of War 2 Gold Edition.zip",
+      "preview": "Previews/god-of-war-2-gold-edition.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 2174943,
+      "iosLayout": "GOWII_iPad.json"
+    },
+    {
+      "name": "God Of War II - Silver",
       "file": "Skins/God of War 2 Silver Edition.zip",
       "preview": "Previews/god-of-war-2-silver-edition.png",
       "author": "bagasromadon",
       "buttons": 19,
-      "sizeBytes": 2130104,
-      "iosLayout": "GOWII_iPad.json"
-    },
-    {
-      "name": "God Of War II iPad_Refined Gold",
-      "file": "Skins/God Of War 2.zip",
-      "preview": "Previews/god-of-war-2.png",
-      "author": "bagasromadon",
-      "buttons": 19,
-      "sizeBytes": 2174196,
+      "sizeBytes": 2131446,
       "iosLayout": "GOWII_iPad.json"
     },
     {
@@ -48,48 +81,47 @@
       "sizeBytes": 3293127
     },
     {
-      "name": "NFS CARBON - Annotation",
+      "name": "Liquid Glass",
+      "file": "Skins/Liquid Glass.zip",
+      "preview": "Previews/liquid-glass.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 285118
+    },
+    {
+      "name": "NFS CARBON",
       "file": "Skins/NFS Carbon.zip",
       "preview": "Previews/nfs-carbon.png",
       "author": "bagasromadon",
       "buttons": 19,
-      "sizeBytes": 1132351,
+      "sizeBytes": 1132340,
       "iosLayout": "NFSCARBON.json"
     },
     {
-      "name": "NFS MW Annotation",
+      "name": "NFS Most Wanted",
       "file": "Skins/NFS Most Wanted.zip",
       "preview": "Previews/nfs-most-wanted.png",
       "author": "bagasromadon",
       "buttons": 19,
-      "sizeBytes": 1132099,
+      "sizeBytes": 1132495,
       "iosLayout": "NFSMW.json"
     },
     {
-      "name": "NFS MW Mobile",
-      "file": "Skins/NFS MW.zip",
-      "preview": "Previews/nfs-mw.png",
-      "author": "bagasromadon",
-      "buttons": 19,
-      "sizeBytes": 1114171,
-      "iosLayout": "NFSMW.json"
-    },
-    {
-      "name": "NFS ProStreet Annotation",
+      "name": "NFS ProStreet",
       "file": "Skins/NFS Pro Street.zip",
       "preview": "Previews/nfs-pro-street.png",
       "author": "bagasromadon",
       "buttons": 19,
-      "sizeBytes": 1114868,
+      "sizeBytes": 1114903,
       "iosLayout": "NFSPROSTREET.json"
     },
     {
-      "name": "NFSU2 Annotation",
+      "name": "NFS Underground 2",
       "file": "Skins/NFS Underground 2.zip",
       "preview": "Previews/nfs-underground-2.png",
       "author": "bagasromadon",
       "buttons": 19,
-      "sizeBytes": 1125167,
+      "sizeBytes": 1125700,
       "iosLayout": "NFSU2.json"
     },
     {
@@ -127,6 +159,14 @@
       "buttons": 19,
       "sizeBytes": 1084799,
       "iosLayout": "WWEHCTP.json"
+    },
+    {
+      "name": "XBOX",
+      "file": "Skins/XBOX.zip",
+      "preview": "Previews/xbox.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 519640
     }
   ]
 }
