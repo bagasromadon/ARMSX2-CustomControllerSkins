@@ -13,6 +13,22 @@
       "iosLayout": "Black.json"
     },
     {
+      "name": "Black Gold Frosted",
+      "file": "Skins/Black Gold Frosted.zip",
+      "preview": "Previews/black-gold-frosted.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 628118
+    },
+    {
+      "name": "Black Gold Solid",
+      "file": "Skins/Black Gold Solid.zip",
+      "preview": "Previews/black-gold-solid.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 236523
+    },
+    {
       "name": "Burnout 3",
       "file": "Skins/Burnout 3.zip",
       "preview": "Previews/burnout-3.png",
@@ -28,6 +44,14 @@
       "author": "bagasromadon",
       "buttons": 18,
       "sizeBytes": 177970
+    },
+    {
+      "name": "Devil May Cry 3",
+      "file": "Skins/Devil May Cry 3.zip",
+      "preview": "Previews/devil-may-cry-3.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 2030273
     },
     {
       "name": "Dualshock 4",
@@ -81,12 +105,44 @@
       "sizeBytes": 3293127
     },
     {
+      "name": "Kingdom Hearts 1 and 2",
+      "file": "Skins/Kingdom Hearts 1 and 2.zip",
+      "preview": "Previews/kingdom-hearts-1-and-2.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 383137
+    },
+    {
+      "name": "Kingdom Hearts 1 and 2 JAPAN",
+      "file": "Skins/Kingdom Hearts 1 and 2 JAPAN.zip",
+      "preview": "Previews/kingdom-hearts-1-and-2-japan.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 383525
+    },
+    {
       "name": "Liquid Glass",
       "file": "Skins/Liquid Glass.zip",
       "preview": "Previews/liquid-glass.png",
       "author": "bagasromadon",
       "buttons": 18,
       "sizeBytes": 285118
+    },
+    {
+      "name": "Metal Gear Solid 3",
+      "file": "Skins/Metal Gear Solid 3.zip",
+      "preview": "Previews/metal-gear-solid-3.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 2887131
+    },
+    {
+      "name": "Midnight Club 3 Dub Edition",
+      "file": "Skins/Midnight Club 3 Dub Edition.zip",
+      "preview": "Previews/midnight-club-3-dub-edition.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 1266903
     },
     {
       "name": "NFS CARBON",
