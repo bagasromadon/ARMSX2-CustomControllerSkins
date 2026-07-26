@@ -4,7 +4,7 @@
   "description": "Community controller skins for ARMSX2 (Android + iOS).",
   "skins": [
     {
-      "name": "Black",
+      "name": "BLACK",
       "file": "Skins/Black.zip",
       "preview": "Previews/black.png",
       "author": "bagasromadon",
@@ -52,6 +52,7 @@
       "author": "bagasromadon",
       "buttons": 18,
       "sizeBytes": 2030273
+      "iosLayout": "DMC3.json"
     },
     {
       "name": "Dualshock 4",
@@ -111,6 +112,7 @@
       "author": "bagasromadon",
       "buttons": 18,
       "sizeBytes": 383137
+      "iosLayout": "KH2.json"
     },
     {
       "name": "Kingdom Hearts 1 and 2 JAPAN",
@@ -119,6 +121,7 @@
       "author": "bagasromadon",
       "buttons": 18,
       "sizeBytes": 383525
+      "iosLayout": "KH2.json"
     },
     {
       "name": "Liquid Glass",
@@ -135,6 +138,7 @@
       "author": "bagasromadon",
       "buttons": 18,
       "sizeBytes": 2887131
+      "iosLayout": "MGS3.json"
     },
     {
       "name": "Midnight Club 3 Dub Edition",
