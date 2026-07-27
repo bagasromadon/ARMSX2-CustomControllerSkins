@@ -51,7 +51,7 @@
       "preview": "Previews/devil-may-cry-3.png",
       "author": "bagasromadon",
       "buttons": 18,
-      "sizeBytes": 2030273
+      "sizeBytes": 2030273,
       "iosLayout": "DMC3.json"
     },
     {
@@ -111,7 +111,7 @@
       "preview": "Previews/kingdom-hearts-1-and-2.png",
       "author": "bagasromadon",
       "buttons": 18,
-      "sizeBytes": 383137
+      "sizeBytes": 383137,
       "iosLayout": "KH2.json"
     },
     {
@@ -120,7 +120,7 @@
       "preview": "Previews/kingdom-hearts-1-and-2-japan.png",
       "author": "bagasromadon",
       "buttons": 18,
-      "sizeBytes": 383525
+      "sizeBytes": 383525,
       "iosLayout": "KH2.json"
     },
     {
@@ -137,7 +137,7 @@
       "preview": "Previews/metal-gear-solid-3.png",
       "author": "bagasromadon",
       "buttons": 18,
-      "sizeBytes": 2887131
+      "sizeBytes": 2887131,
       "iosLayout": "MGS3.json"
     },
     {
