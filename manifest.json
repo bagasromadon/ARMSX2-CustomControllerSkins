@@ -149,6 +149,46 @@
       "sizeBytes": 1266903
     },
     {
+      "name": "Nascar 2001",
+      "file": "Skins/Nascar 2001.zip",
+      "preview": "Previews/nascar-2001.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1253340
+    },
+    {
+      "name": "Nascar 2001",
+      "file": "Skins/Nascar 2002-2003.zip",
+      "preview": "Previews/nascar-2002-2003.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1253340
+    },
+    {
+      "name": "Nascar 2004",
+      "file": "Skins/Nascar 2004.zip",
+      "preview": "Previews/nascar-2004.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1253340
+    },
+    {
+      "name": "Nascar 2005",
+      "file": "Skins/Nascar 2005.zip",
+      "preview": "Previews/nascar-2005.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1253340
+    },
+    {
+      "name": "Nascar 2006-2009",
+      "file": "Skins/Nascar 2006-2009.zip",
+      "preview": "Previews/nascar-2006-2009.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 1253340
+    },
+    {
       "name": "NFS CARBON",
       "file": "Skins/NFS Carbon.zip",
       "preview": "Previews/nfs-carbon.png",
@@ -183,6 +223,33 @@
       "buttons": 19,
       "sizeBytes": 1125700,
       "iosLayout": "NFSU2.json"
+    },
+    {
+      "name": "Onimusha 1 2 3 - Gold Red",
+      "file": "Skins/Onimusha 1 2 3 - Gold Red.zip",
+      "preview": "Previews/onimusha-1-2-3-gold-red.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 3912300,
+      "iosLayout": "Onimusha.json"
+    },
+    {
+      "name": "Onimusha 1 2 3 - White",
+      "file": "Skins/Onimusha 1 2 3 - Whites.zip",
+      "preview": "Previews/onimusha-1-2-3-white.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 3912300,
+      "iosLayout": "Onimusha.json"
+    },
+    {
+      "name": "Onimusha 4",
+      "file": "Skins/Onimusha 4.zip",
+      "preview": "Previews/onimusha-4.png",
+      "author": "bagasromadon",
+      "buttons": 19,
+      "sizeBytes": 3912300,
+      "iosLayout": "Onimusha.json"
     },
     {
       "name": "Resident Evil 4",
