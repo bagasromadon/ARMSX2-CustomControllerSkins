@@ -12,6 +12,14 @@
       "sizeBytes": 815316,
     },
     {
+      "name": "ARMSX3 Textured Button",
+      "file": "Skins/ARMSX1 Textured.zip",
+      "preview": "Previews/ARMSX3_Textured_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 2005316,
+    },
+    {
       "name": "BLACK",
       "file": "Skins/Black.zip",
       "preview": "Previews/black.png",
