@@ -4,6 +4,14 @@
   "description": "Community controller skins for ARMSX2 (Android + iOS).",
   "skins": [
     {
+      "name": "ARMSX1",
+      "file": "Skins/ARMSX1 Skin.zip",
+      "preview": "Previews/ARMSX1_Skin_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 815316,
+    },
+    {
       "name": "BLACK",
       "file": "Skins/Black.zip",
       "preview": "Previews/black.png",
