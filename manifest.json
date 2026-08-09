@@ -309,6 +309,14 @@
       "iosLayout": "RE4.json"
     },
     {
+      "name": "Shiny Black",
+      "file": "Skins/Shiny Black.zip",
+      "preview": "Previews/Shiny_Black_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 700000
+    },
+    {
       "name": "Street Fighter",
       "file": "Skins/Street Fighter.zip",
       "preview": "Previews/street-fighter.png",
