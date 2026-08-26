@@ -71,6 +71,14 @@
       "iosLayout": "DMC3.json"
     },
     {
+      "name": "Dragon BallZ Budokai Tenkaichi 3",
+      "file": "Skins/Dragon BallZ Budokai Tenkaichi 3.zipp",
+      "preview": "Previews/Dragon_BallZ_Budokai_Tenkaichi_3_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 3030273
+    },
+    {
       "name": "Dualshock 4",
       "file": "Skins/DualShock4.zip",
       "preview": "Previews/dualshock4.png",
