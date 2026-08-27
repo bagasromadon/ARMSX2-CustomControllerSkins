@@ -71,12 +71,20 @@
       "iosLayout": "DMC3.json"
     },
     {
-      "name": "Dragon Ball Z Tenkaichi 3",
-      "file": "Skins/Dragon Ball Z Budokai Tenkaichi 3.zip",
-      "preview": "Previews/Dragon_Ball_Z_Budokai_Tenkaichi_3_preview.png",
+      "name": "Dragon Ball Z Tenkaichi 3 - Blue",
+      "file": "Skins/Dragon Ball Z Budokai Tenkaichi 3 - Blue.zip",
+      "preview": "Previews/Dragon_Ball_Z_Budokai_Tenkaichi_3_-_Blue_preview.png",
       "author": "bagasromadon",
       "buttons": 18,
-      "sizeBytes": 3030273
+      "sizeBytes": 2030273
+    },
+    {
+      "name": "Dragon Ball Z Tenkaichi 3 - Gray",
+      "file": "Skins/Dragon Ball Z Budokai Tenkaichi 3 - Gray.zip",
+      "preview": "Previews/Dragon_Ball_Z_Budokai_Tenkaichi_3_-_Gray_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 2030273
     },
     {
       "name": "Dualshock 4",
