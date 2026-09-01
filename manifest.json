@@ -71,6 +71,14 @@
       "iosLayout": "DMC3.json"
     },
     {
+      "name": "Downhill Domination",
+      "file": "Skins/Downhill Domination.zip",
+      "preview": "Previews/Downhill_Domination_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 1830273
+    },
+    {
       "name": "Dragon Ball Z Tenkaichi 3 - Blue",
       "file": "Skins/Dragon Ball Z Budokai Tenkaichi 3 - Blue.zip",
       "preview": "Previews/Dragon_Ball_Z_Budokai_Tenkaichi_3_-_Blue_preview.png",
