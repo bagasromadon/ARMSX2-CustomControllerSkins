@@ -408,6 +408,14 @@
       "iosLayout": "WWEHCTP.json"
     },
     {
+      "name": "WINNING ELEVEN & PES",
+      "file": "Skins/WINNING ELEVEN & PES.zip",
+      "preview": "Previews/WEPES_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 2084799
+    },
+    {
       "name": "XBOX",
       "file": "Skins/XBOX.zip",
       "preview": "Previews/xbox.png",
