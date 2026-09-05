@@ -382,6 +382,14 @@
       "iosLayout": "RE4.json"
     },
     {
+      "name": "Sengoku Basara 2 Heroes",
+      "file": "Skins/Sengoku Basara 2 Heroes.zip",
+      "preview": "Previews/Sengoku_Basara_2_Heroes_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 120070,
+    },
+    {
       "name": "Shiny Black",
       "file": "Skins/Shiny Black.zip",
       "preview": "Previews/Shiny_Black_preview.png",
