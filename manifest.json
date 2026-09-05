@@ -387,7 +387,15 @@
       "preview": "Previews/Sengoku_Basara_2_Heroes_preview.png",
       "author": "bagasromadon",
       "buttons": 18,
-      "sizeBytes": 120070,
+      "sizeBytes": 120070
+    },
+    {
+      "name": "Sengoku Basara 2 Heroes COLORED",
+      "file": "Skins/Sengoku Basara 2 Heroes Colored.zip",
+      "preview": "Previews/Sengoku_Basara_2_Heroes_Colored_preview.png",
+      "author": "bagasromadon",
+      "buttons": 18,
+      "sizeBytes": 220070
     },
     {
       "name": "Shiny Black",
